@@ -49,4 +49,4 @@ docker inspect <container_id> | grep "Health"
 
 Pour arrêter l'application :
 ```bash
-![alt text](image.png)
+ctrl + C
